@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Acea Water Prediction — Code Purpose and Project Context
-
 📌 What Is This Code For?
 
 This code is a unified machine learning pipeline designed to process hydrological datasets. It automates data cleaning, preprocessing, feature engineering, and model training to forecast water levels and flow rates. The pipeline ensures consistency across multiple datasets (aquifers, rivers, lakes, springs) and evaluates predictive performance using metrics like MAE (Mean Absolute Error) and RMSE (Root Mean Squared Error).
