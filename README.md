@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Acea Water Prediction — Code Purpose and Project Context
 
 📌 What Is This Code For?
@@ -127,3 +128,6 @@ Run these in your terminal or VS Code environment:
 pip install numpy pandas scikit-learn
 
 (The other modules like os, re, math, warnings are part of Python’s standard library, so you don’t need to install them separately.)
+=======
+# Acea-Water-Project
+>>>>>>> 9db916af0f371da1c81b1f4b996381c65c90533a
